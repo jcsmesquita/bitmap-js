@@ -10,7 +10,7 @@
     "url": "https://ericandrewlewis.com"
   },
   "engines": {
-    "node": ">=9"
+    "node": ">=8"
   },
   "scripts": {
     "test": "ava"
